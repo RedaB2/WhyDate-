@@ -5,4 +5,4 @@ This is by far the coolest project I am working on. Still in early stages and so
 
 It's exciting ✌🏽 
 
-<img title="WhyDate Mockup" alt="WhyDateMc" src="/whydateimage.png" width="150" height="auto">
+<img title="WhyDate Mockup" alt="WhyDateMc" src="/whydateimage.png" width="400" height="auto">
